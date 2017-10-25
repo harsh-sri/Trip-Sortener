@@ -1,2 +1,2 @@
-# Trip-Sortener
+# Trip-Sorter
 Trip sortner app (Build using PHP)
